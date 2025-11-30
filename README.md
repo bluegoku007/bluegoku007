@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Selmen Selmi</h1>
 <h2 align="center">🔥 Aspiring Laravel Backend Developer</h2>
 <p align="center">
-  💻 API Builder • Vue/React/Next Enthusiast • Future Cloud Engineer
+  💻 API Builder • Laravel/Vue/React/Next Enthusiast • Future Cloud Engineer
 </p>
 
 <h3>🛠️ Tech Stack </h3>
