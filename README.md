@@ -1,6 +1,10 @@
-🚀 Selmen Selmi — Aspiring Laravel Backend Developer
+<h1 align="center">🚀 Selmen Selmi</h1>
+<h2 align="center">🔥 Aspiring Laravel Backend Developer</h2>
+<p align="center">
+  💻 API Builder • Vue/React/Next Enthusiast • Future Cloud Engineer
+</p>
 
-🛠️ Tech Stack
+<h3>🛠️ Tech Stack </h3>
 
 Backend: Laravel 12, PHP
 
@@ -12,7 +16,7 @@ DevOps & Tools: Docker, Laravel Sail, MySQL, Ansible
 
 AI: PyTorch, Grok API (TripTip project)
 
-🌱 What I’m Learning Now
+<h3>🌱 What I’m Learning Now </h3>
 
 Advanced Laravel backend patterns
 
@@ -20,13 +24,13 @@ API design & authentication (JWT, Sanctum, Social Login)
 
 Scalable architectures & cloud deployment
 
-📌 Current Projects
+<h3> 📌 Current Projects </h3>
 
 TripTip — AI-powered travel recommendation app (Laravel + Vue.js + Flutter)
 
 Building production-ready APIs & dashboards
 
-🎯 Goals for 2026
+<h3> 🎯 Goals for 2026 </h3>
 
 Become a strong Laravel backend engineer
 
